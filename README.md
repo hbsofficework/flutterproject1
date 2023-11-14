@@ -1,4 +1,4 @@
 # flutterproject1
-This is my first GIT Repository.
+This is My First GIT Repository.
 <br>
 Flutter Project
